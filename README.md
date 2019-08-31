@@ -1,6 +1,6 @@
 # Meetapp!
 
-## Instructions:
+### Instructions:
 
 Meetapp, an aplication made with React created at the Bootcamp GoStack of Rocketseat!
 
@@ -24,7 +24,7 @@ express
 jsonwebtoken
 ```
 
-## Let's start!
+### Let's start!
 
 First in your terminal install:
 `yarn add express`
