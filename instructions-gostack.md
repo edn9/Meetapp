@@ -228,5 +228,5 @@ This was the first steps for the feature in the app: Login, create and update. A
 
 ## **Useful links**
 
-- [Github Help - Basic writing and formatting syntaxBasic writing and formatting syntax. [EN]](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+- [Github Help - Basic writing and formatting syntaxBasic writing and formatting syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
 - [Rocketseat Starter](https://rocketseat.com.br/starter)
