@@ -229,4 +229,4 @@ This was the first steps for the feature in the app: Login, create and update. A
 ## **Useful links**
 
 - [Github Help - Basic writing and formatting syntaxBasic writing and formatting syntax. [EN]](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
-- [Rocketseat Starter - 100% free online courses to get you right into the most desired technologies on the market. [PT-BR]](https://rocketseat.com.br/starter)
+- [Rocketseat Starter](https://rocketseat.com.br/starter)
